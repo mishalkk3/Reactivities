@@ -1,0 +1,17 @@
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Application.deps.json
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Application.dll
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\ref\Application.dll
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Application.pdb
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Domain.dll
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Persistence.dll
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Persistence.pdb
+D:\project\Reacts\Reactivities\Application\bin\Debug\net5.0\Domain.pdb
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.dll
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
+D:\project\Reacts\Reactivities\Application\obj\Debug\net5.0\Application.pdb
