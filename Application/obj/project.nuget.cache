@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "uatN9lx57Cp2kpglwzFMrbdg5fh/Fu3A2SrQ16Ti2D706j+5G5dwgxzJy+qFiJU6cMxFwkim1nYZP5ne6cH9FQ==",
+  "dgSpecHash": "SgIg7yBX6mjeV4A2z3VYJ0/7U69BUsoqAi9EcvKQvy31UKJbi0T0MsmJBLrITGDgcJCnsMYouX4aFzoBBFpIfA==",
   "success": true,
   "projectFilePath": "D:\\project\\Reacts\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MIshel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\MIshel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\MIshel\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\MIshel\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\MIshel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\MIshel\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.4\\microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "C:\\Users\\MIshel\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\MIshel\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
@@ -29,7 +34,8 @@
     "C:\\Users\\MIshel\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\MIshel\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\MIshel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\MIshel\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\MIshel\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\MIshel\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
